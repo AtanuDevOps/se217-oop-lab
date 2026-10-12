@@ -1,7 +1,7 @@
 
 # SE217 OOP Lab
 
-**Name:** Atanu
+**Name:** Atanu Mitra
 **Student ID:** 252-35-300
 **Section:** 45 H1
 
